@@ -19,4 +19,6 @@ Add more of an item:
 
 
 Add a completely new product:  
+
+
 ![alt text](images/addNewProduct.PNG)
