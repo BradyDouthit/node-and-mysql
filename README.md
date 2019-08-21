@@ -1,4 +1,4 @@
-###This app allows users to get information from a database, and make "purchases", which updates the database.
+### This app allows users to get information from a database, and make "purchases", which updates the database.
 You can browse the items available on Bamazon:
 ![alt text](images/bamazonCustomer.PNG)
 
