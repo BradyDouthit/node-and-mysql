@@ -3,20 +3,20 @@ You can browse the items available on Bamazon:
 ![alt text](images/bamazonCustomer.PNG)
 
 Things you can do as a manager:  
-![alt text](image/managerBam.PNG)
+![alt text](images/managerBam.PNG)
 
 
 View all products:
-![alt text](image/viewProducts.PNG)
+![alt text](images/viewProducts.PNG)
 
 
 View products with low quantity: 
-![alt text](image/viewLow.PNG)
+![alt text](images/viewLow.PNG)
 
 
 Add more of an item: 
-![alt text](image/addInventory.PNG)
+![alt text](images/addInventory.PNG)
 
 
 Add a completely new product: 
-![alt text](image/addNewProduct.PNG)
+![alt text](images/addNewProduct.PNG)
