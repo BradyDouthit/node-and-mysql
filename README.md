@@ -18,5 +18,5 @@ Add more of an item:
 ![alt text](images/addInventory.PNG)
 
 
-Add a completely new product: 
+Add a completely new product:
 ![alt text](images/addNewProduct.PNG)
